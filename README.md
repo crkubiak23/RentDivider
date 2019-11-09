@@ -1,6 +1,9 @@
 # RentDivider
 TItle: Rent Divider
-Members: 
+Description: 
+    A program for finding the optimal place to live for people sharing rent; It takes information about a living space and estimates the cost for each roommate.
+    
+Team Members: Connor Kubiak, Trevin Bonkoski, Hannah Sun, Xiaotian Wang
 
 Title: 
     Rent DividerDo you want me to wait a bit? Probably? Give me 20 minutes, thanks a lot 
